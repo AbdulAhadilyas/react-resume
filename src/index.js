@@ -1,9 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-
 import reportWebVitals from './reportWebVitals';
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
  <>
@@ -11,7 +9,7 @@ root.render(
         <div className="left">
             <div className="name">
                 <div className="img">
-                    <img src="ahad.jpg" alt=""/>
+                    <img src="https://raw.githubusercontent.com/AbdulAhadilyas/RESUME2/main/ahad.jpg" alt=""/>
                 </div>
                 <h2>ABDUL AHAD <br/>WEB DEVELOPER</h2>
             </div>
