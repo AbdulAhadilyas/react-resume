@@ -9,7 +9,7 @@ root.render(
         <div className="left">
             <div className="name">
                 <div className="img">
-                    <img src="https://raw.githubusercontent.com/AbdulAhadilyas/RESUME2/main/ahad.jpg" alt=""/>
+                    <img src="https://raw.githubusercontent.com/AbdulAhadilyas/RESUME2/main/ahad.jpgnetlify login" alt=""/>
                 </div>
                 <h2>ABDUL AHAD <br/>WEB DEVELOPER</h2>
             </div>
